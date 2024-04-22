@@ -1,0 +1,25 @@
+{
+  "user": [
+    {
+      "id": "91ab",
+      "username": "dhruv",
+      "Email": "hello25@gmail.com",
+      "Password": "node"
+    },
+    {
+      "id": "1a7c",
+      "username": "ravi",
+      "Email": "ravi@gmail.com",
+      "Password": "0123abc"
+    }
+  ],
+  "Products": [
+    {
+      "id": "6b6c",
+      "title": "historry",
+      "price": "250",
+      "category": "book",
+      "img": "https://i.pcmag.com/imagery/reviews/01PrYptIDUTPbjd74fQfIxq-3.fit_lim.size_1050x591.v1634763532.jpg"
+    }
+  ]
+}
